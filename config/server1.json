@@ -1,0 +1,17 @@
+{
+  "debug" : false,
+  "token"  : "ODAyODcwMTAyMjQ0NDU4NTE2.YA1hDA.TWmv_BzprnASWXzoas2_9wv7m48",
+  "apiSite" : 4,
+  "apiUrl" : "https://api.battlemetrics.com/servers/9714313",
+  "serverIp": "188.165.227.105",
+  "serverPort": "2028",
+  "enableRcon" : "0",
+  "rconhost"   : "",
+  "rconport"   : "",
+  "rconpass"   : "",
+  "prefix" : "!",
+  "roles"  :  ["Klinikos Vedëja", "Rust"],
+  "queueMessage"  :  "currently waiting in queue.",
+  "statusType" : "",
+  "updateInterval" : "0"
+}
